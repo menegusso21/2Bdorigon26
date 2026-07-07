@@ -1,0 +1,14 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+    .cabacalho {
+        padding: 15px 25px;
+
+    }
+     
+    .cartao {
+        width: 260px;
+        height: 20px;
+    }
