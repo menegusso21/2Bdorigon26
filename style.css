@@ -8,6 +8,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 25px;
+    background-color: #452c7e;
 
 }
 
@@ -24,8 +25,25 @@ body {
     display: flex;
     flex-direction: column;
     min-width: 100vh;
-
+    background-color: #55629b;
 }
 main { 
   flex: 1; 
 } 
+
+.cabacalho-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    color: #fff;
+    font-size: 24px;
+     
+}
+ footer {
+    background-color: #452c7e;
+     padding: 15px 25px; 
+     color:#fff;
+
+ }
